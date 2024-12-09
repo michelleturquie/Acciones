@@ -143,9 +143,9 @@ def volatilidad(dic_acciones, archivotexto="volatilidad.txt"):
 
     return archivotexto
 
-#Especifico donde se encuentran los archivos con las acciones 
+# Especifico donde se encuentran los archivos con las acciones 
 
-carpeta = "C:/Users/karin/OneDrive/Escritorio/TP3/Acciones"
+carpeta = os.path.join(os.getcwd(), "Acciones")
 
 # Llamar funciones
 
