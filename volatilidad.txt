@@ -1,0 +1,7 @@
+Estudio de volatilidad de stocks:
+La acción AAPL tiene una volatilidad con promedio 0.0186 y desviación 0.0112.
+La acción IBM tiene una volatilidad con promedio 0.014 y desviación 0.0071.
+La acción INTC tiene una volatilidad con promedio 0.019 y desviación 0.0094.
+La acción JNJ tiene una volatilidad con promedio 0.0123 y desviación 0.0074.
+La acción MSFT tiene una volatilidad con promedio 0.0173 y desviación 0.009.
+La acción NSRGY tiene una volatilidad con promedio 0.0096 y desviación 0.0071.
